@@ -135,6 +135,10 @@ Six sequential checks implemented as Filter Rows steps in the transformation pip
 
 After the full pipeline run, the fact table contained 178 rows (two short of the 180-row target), due to BPS not yet publishing November–December 2025 figures for NTB at the time of data collection.
 
+## Data Consumption (Power BI Dashboard)
+
+👉 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGI0Yzk1M2YtZWQ5ZS00ZDAxLTliYTQtYTgzNjNiNjM3NDNiIiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D&pageName=fcde229a23533ed6d4b3)
+
 ## Findings
 
 1. **Rainfall and visitor correlation**: negative association clearest for NTB and Bali (outdoor/beach/trekking-dependent tourism); Jawa Timur and Sumatera Selatan show weaker sensitivity, consistent with their domestic-tourist-dominated visitor base.
