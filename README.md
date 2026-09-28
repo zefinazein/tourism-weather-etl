@@ -2,7 +2,7 @@
 
 ![Pentaho](https://img.shields.io/badge/Pentaho-PDI-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data%20Warehouse-336791?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNGI0Yzk1M2YtZWQ5ZS00ZDAxLTliYTQtYTgzNjNiNjM3NDNiIiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D&pageName=fcde229a23533ed6d4b3)
 
 ## Background
 
